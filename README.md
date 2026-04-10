@@ -5,10 +5,3 @@ Consta de la parte cliente y de la parte administradora que se accede por el fro
 utiliza a mercado pago como pasarela de pago. 
 Entre las tecnologias usadas esta js, node, PostGreSQL, nodemailer, mercadopago API, express, Sequelize, CSS, HTML. 
 
-
-- <vr></vr> Backend Heroku deploy
-- - <vr></vr> https://buyme-pf.herokuapp.com/
-
-- <vr></vr> Frontend Vercel deploy
-- - <vr></vr> http://buyme-app-pf.vercel.app/
-
